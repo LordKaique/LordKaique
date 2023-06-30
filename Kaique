@@ -1,0 +1,8 @@
+public class ApresentacaoKaique {
+    public static void main(String[] args) {
+        System.out.println("Aqui você encontrará os projetos aos quais me dediquei e projetos colaborativos com parceiros.");
+        System.out.println("Sou Kaique Amorim Cabral, estudante de Análise e Desenvolvimento de Sistemas 1/5, com conhecimentos atualmente em Java.");
+        System.out.println("Buscando evoluir sempre, aprendendo cada vez mais sobre novas tecnologias");
+        System.out.println("Sinta-se convidado(a) a explorar esses projetos que refletem meu comprometimento e paixão pela tecnologia.");
+    }
+}
