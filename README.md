@@ -10,7 +10,7 @@ Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades de pr
 - Linguagens de Programação: Java
 - Programação WEB: HTML, CSS, Javascript
 - Banco de dados: MySQL
--  
+
 ### 💞️ Colaboração
 Estou aberto a colaborar em projetos interessantes e inovadores. Se você precisa de ajuda em um projeto ou quer trabalhar juntos em algo, sinta-se à vontade para entrar em contato!
 
