@@ -1,4 +1,4 @@
-## 👋 Olá, sou o @LordKaique!
+## 👋 Olá, sou o @Kaique!
 
 ### 👀 Sobre mim
 Sou uma pessoa apaixonada por tecnologia, programação e aprendizado contínuo.
@@ -7,8 +7,9 @@ Sou uma pessoa apaixonada por tecnologia, programação e aprendizado contínuo.
 Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades de programação, ciencia de dados e Inteligenia artificial. 
 
 ### 💻 Principais habilidades
-- Linguagens de Programação: Java
-- Programação WEB: HTML, CSS, Javascript
+- Linguagens de Programação: Java,C++
+- Programação WEB: HTML, CSS, Javascript, ReactJs
+- programação mobile: React Native
 - Banco de dados: MySQL
 
 ### 💞️ Colaboração
@@ -17,8 +18,3 @@ Estou aberto a colaborar em projetos interessantes e inovadores. Se você precis
 ### 📫 Como entrar em contato comigo
 - E-mail: Kaiquea72@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kaique-amorim-390904139/
-
-<!---
-LordKaique/LordKaique é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-Você pode clicar no link "Preview" para ver como ficará.
---->
